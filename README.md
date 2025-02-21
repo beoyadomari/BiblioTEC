@@ -1,4 +1,4 @@
-O BiblioTEC é um software desenvolvido para a disciplina de Projeto Integrador I, do curso de Big Data para Negócios da Fatec Ipiranga, desenvolvido em grupo por: Beatriz Oyadomari de Sousa, Claudia Molinari Satil de Souza, Pedro Bettiol Abe, e Stephanie Sayuri Yoshida Tenório.
+O BiblioTEC é um software de gerenciamento de empréstimos de livros para bibliotecas, desenvolvido para a disciplina de Projeto Integrador I (agosto - dezembro 2023), do curso de Big Data para Negócios da Fatec Ipiranga, desenvolvido em grupo por: Beatriz Oyadomari de Sousa, Claudia Molinari Satil de Souza, Pedro Bettiol Abe, e Stephanie Sayuri Yoshida Tenório. 
 Utilizou-se as seguintes ferramentas:
 PostgreSQL para a criação do banco de dados;
 Python para desenvolver o sistema com interface do usuário;
