@@ -1,4 +1,4 @@
-🌐 **Language / Idioma:** [ 🇺🇸 English ] | [ 🇧🇷 [Português](README.pt-BR.md) ]
+🌐 **Idioma / Language:** [ 🇧🇷 Português ] | [ 🇺🇸 [English](README.md) ]
 
 ---
 # 📚 BiblioTEC - Sistema de Gerenciamento de Bibliotecas
