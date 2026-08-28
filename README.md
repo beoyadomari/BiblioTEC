@@ -55,8 +55,8 @@ Beyond operational control, the system aims to:
 ```text
 BiblioTEC/
 ├── MODELO LÓGICO/           # Entity-Relationship Diagram and logical data model
+├── PowerBI/                 # Power BI report files (.pbix / .pdf)
 ├── Python/                  # Application source code and User Interface (UI)
 ├── SQL - BANCO DE DADOS/    # PostgreSQL schema creation and population scripts
-├── BIBLIOTEC PowerBI.pdf    # Power BI dashboard export (PDF format)
-├── README.pt-BR.md          # Documentation in Portuguese
+├── README-pt-BR.md          # Documentation in Portuguese
 └── README.md                # Primary documentation (English)
