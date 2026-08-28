@@ -20,9 +20,7 @@ O **BiblioTEC** é um software de gerenciamento de empréstimos de livros para b
 
 > Confira no vídeo abaixo a demonstração do fluxo do sistema, interações de interface e o painel analítico.
 
-<!-- 
-https://github.com/user-attachments/assets/235e6b79-336a-424e-a3f2-fdd86c961a50
--->
+<!--https://github.com/user-attachments/assets/235e6b79-336a-424e-a3f2-fdd86c961a50-->
 
 ---
 
