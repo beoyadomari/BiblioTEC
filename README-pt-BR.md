@@ -1,6 +1,29 @@
+🌐 **Language / Idioma:** [ 🇺🇸 English ] | [ 🇧🇷 [Português](README.pt-BR.md) ]
+
+---
 # 📚 BiblioTEC - Sistema de Gerenciamento de Bibliotecas
 
-O **BiblioTEC** é um software de gerenciamento de empréstimos de livros para bibliotecas, desenvolvido para a disciplina de **Projeto Integrador I** (agosto a dezembro de 2023) do curso de **Big Data para Negócios** da **Faculdade de Tecnologia do Estado de São Paulo – FATEC Ipiranga "Pastor Enéas Tognini"**.
+O **BiblioTEC** é um software de gerenciamento de empréstimos de livros para bibliotecas, desenvolvido para a disciplina de **Projeto Integrador I** (agosto a dezembro de 2023), do curso de Big Data para Negócios da Fatec Ipiranga.
+
+---
+
+## 👥 Equipe Desenvolvedora
+
+* **Beatriz Oyadomari de Sousa**
+* **Claudia Molinari Satil de Souza**
+* **Pedro Bettiol Abe**
+* **Stephanie Sayuri Yoshida Tenório**
+
+---
+
+## 🎥 Demonstração do Projeto
+
+> Confira no vídeo abaixo a demonstração do fluxo do sistema, interações de interface e o painel analítico.
+
+<!-- 
+https://github.com/user-attachments/assets/235e6b79-336a-424e-a3f2-fdd86c961a50
+-->
+
 ---
 
 ## 🎯 Tema e Objetivos
@@ -30,9 +53,13 @@ O **Centro Paula Souza (CPS)** é uma autarquia do Governo do Estado de São Pau
 
 ---
 
-## 👥 Equipe Desenvolvedora
+## 📂 Estrutura do Repositório
 
-* **Beatriz Oyadomari de Sousa**
-* **Claudia Molinari Satil de Souza**
-* **Pedro Bettiol Abe**
-* **Stephanie Sayuri Yoshida Tenório**
+```text
+BiblioTEC/
+├── MODELO LÓGICO/           # Diagrama e documentação do modelo conceitual/lógico
+├── Python/                  # Código-fonte da aplicação e interface do usuário
+├── SQL - BANCO DE DADOS/    # Scripts de criação e população do banco PostgreSQL
+├── BIBLIOTEC PowerBI.pdf    # Exportação em PDF do painel do Power BI
+└── README.md                # Documentação principal do projeto
+
