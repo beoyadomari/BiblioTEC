@@ -58,5 +58,5 @@ BiblioTEC/
 ├── Python/                  # Código-fonte da aplicação e interface do usuário
 ├── SQL - BANCO DE DADOS/    # Scripts de criação e população do banco PostgreSQL
 ├── BIBLIOTEC PowerBI.pdf    # Exportação em PDF do painel do Power BI
-└── README.md                # Documentação principal do projeto
-
+├── README.pt-BR.md          # Documentation in Portuguese
+└── README.md                # Primary documentation (English)
