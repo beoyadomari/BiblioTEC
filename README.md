@@ -4,7 +4,7 @@
 
 # 📚 BiblioTEC - Library Management System
 
-**BiblioTEC** is a library management and data analytics software developed for the **Capstone Project I** course (August – December 2023) as part of the **Big Data for Business** undergraduate program at **Fatec Ipiranga "Pastor Enéas Tognini"** (São Paulo, Brazil).
+**BiblioTEC** is a library management and data analytics software developed for the **Projeto Integrador I** course (August – December 2023) as part of the **Big Data for Business** Higher Education Technology Program at **Fatec Ipiranga "Pastor Enéas Tognini"** (São Paulo, Brazil).
 
 ---
 
