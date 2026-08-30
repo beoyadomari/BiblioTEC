@@ -1,4 +1,4 @@
-🌐 **Language / Idioma:** [ 🇺🇸 English ] | [ 🇧🇷 [Português](README.pt-BR.md) ]
+🌐 **Language / Idioma:** [ 🇺🇸 English ] | [ 🇧🇷 [Português][(README.pt-BR.md)](https://github.com/beoyadomari/BiblioTEC/blob/main/README-pt-BR.md) ]
 
 ---
 
